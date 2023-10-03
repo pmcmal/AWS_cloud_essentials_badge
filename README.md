@@ -10,3 +10,5 @@ This Learning Plan is designed to help individuals who are new to AWS Cloud tech
  
 
 Earn an AWS digital badge, issued through Credly, that you can share with your network by scoring 80% or higher on the assessment in this Learning Plan. The assessment evaluates your skills and knowledge based on the summative objectives of this Learning Plan. As the courses in this plan provide the content covered in the assessment, we recommend completing these courses as needed to complement your current experience and knowledge.
+
+![image](https://github.com/pmcmal/AWS_cloud_essentials_badge/assets/89246706/e6eedee4-b51a-4e6f-9024-d5af9e27f6b1)
